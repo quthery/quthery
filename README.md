@@ -10,7 +10,7 @@
   -----------------
   Name: quthery
   Languages: ["Python", "ShellScript", "Go", "Lua"]
-  Interests: ["Linux", "Backend", "Software engineering"]
+  Interests: ["Linux", "Backend", "Software dev"]
   OS: ArchLinux
   WM: Hyprland
   ```
