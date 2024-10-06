@@ -19,6 +19,6 @@
 <p align="center">
   <samp>
     <a href="https://github.com/quthery/ThinkpadBspwm"><img height="25" src="https://img.shields.io/badge/dotfiles-221f29?style=for-the-badge&logo=linux&logoColor=white"</a>
-    <a href="mailto:archiso121234@gmail.com"><img height="25" src="https://img.shields.io/badge/EMAIL-221f29?style=for-the-badge&logo=gmail&logoColor=white"</a>
+    <a href="chiefkeef7317@gmail.com"><img height="25" src="https://img.shields.io/badge/EMAIL-221f29?style=for-the-badge&logo=gmail&logoColor=white"</a>
   </samp>
 </p>
