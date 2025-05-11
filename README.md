@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://example.com/matrix-go-banner.jpg" alt="Матрица meets Golang" width="600">
+  <img src="https://vkvd370.okcdn.ru/?expires=1747235844521&srcIp=176.59.48.209&pr=40&srcAg=CHROME&ms=45.136.22.203&type=7&sig=k5TUQIu6VSA&ct=11&urls=45.136.20.199&clientType=13&id=2377985362471" alt="Матрица meets Golang" width="600">
   <!-- Можно использовать зелёный цифровой дождь с логотипом Go -->
 </p>
 
