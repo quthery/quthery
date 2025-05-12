@@ -1,40 +1,38 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b0e67bc6-4b80-4c3a-8bfe-0bd1436ad258)"
- alt="quthery tripp" width="600">
-  <!-- Можно использовать зелёный цифровой дождь с логотипом Go -->
-</p>
-
-<h1 align="center">Wake up, Gopher...</h1>
-
-<div align="center" style="color: #00ff41; font-family: 'Courier', monospace;">
-
-  |‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
-  |  **Q U T H E R Y**      |
-  |------------------------|
-  | › Golang Architect     |
-  | › Binary Phantom       |
-  | › Code in the Shell    |
-  |________________________|
-
+<div align="center">
+  <img src="https://example.com/your-avatar-or-banner.png" width="200" style="border-radius: 50%">
+  
+  # Quthery
+  ### Backend Engineer & Solutions Architect
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram)](https://t.me/your_username)
 </div>
 
 ---
 
-### <span style="color: #00ff41">>_ Системные показатели</span>
+### 🛠 Технологический стек
+**Основные языки:**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- **Язык системы:** `Golang` (основной), Python, Lua  
-- **Протоколы:** gRPC, WebSocket, REST/JSON  
-- **Базы данных:** PostgreSQL (CQRS), Redis, ScyllaDB  
-- **Инфраструктура:** Kubernetes, Docker, Terraform  
-- **Шифрование:** AES-GCM, ECDSA, JWT/OAuth2  
+**Инфраструктура:**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
 
 ---
 
-### <span style="color: #00ff41">>_ Активные миссии</span>
+### 📌 Текущие проекты
+- **Distributed Task Scheduler** (Go + gRPC + Redis)  
+- **High-load API Gateway** (Python/Async + WebSockets)  
+- **CI/CD Optimization Toolkit** (Bash + Terraform)
 
-```diff
-+ Разработка high-load API (Go + WASM)
-! Анализ уязвимостей в distributed systems
-# Исследование WebAssembly для бэкенда
+---
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yY2VjZGJjZ3B5Y2V6dW0ya3R5NnFqY2R6eGZ2cWx4dWZ1eWZ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKc9OjGx0U7yq5/giphy.gif" width="200"> </p><h3 align="center" style="color: #00ff41">«There is no exit... only compilation»</h3> ```
+### 📚 Принципы разработки
+```text
+1. Простота > сложности
+2. Измеряемость важнее мнений
+3. Автоматизация рутины
+4. Документация как код
