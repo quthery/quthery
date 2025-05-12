@@ -5,7 +5,7 @@
   ### Systems & Backend Engineer
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/quthery)
-  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&style=for-the-badge)](https://stackoverflow.com/users/your-id)
+  [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?logo=stack-overflow&style=for-the-badge)]([https://stackoverflow.com/users/your-id](https://ru.stackoverflow.com/users/556117/today))
 </div>
 
 ---
