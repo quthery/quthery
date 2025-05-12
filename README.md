@@ -1,5 +1,6 @@
 <p align="center">
-  <video src="https://vkvd370.okcdn.ru/?expires=1747235844521&srcIp=176.59.48.209&pr=40&srcAg=CHROME&ms=45.136.22.203&type=7&sig=k5TUQIu6VSA&ct=11&urls=45.136.20.199&clientType=13&id=2377985362471" alt="quthery tripp" width="600">
+  <img src="https://github.com/user-attachments/assets/b0e67bc6-4b80-4c3a-8bfe-0bd1436ad258)"
+ alt="quthery tripp" width="600">
   <!-- Можно использовать зелёный цифровой дождь с логотипом Go -->
 </p>
 
