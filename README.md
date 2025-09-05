@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fa8%2F28%2F7b%2Fa8287b2c3319aae66738e49ff159d212.jpg"&f=1&nofb=1&ipt=aeed75d54044974f1eaeb761f5e0472ce5a2e453b2161be9bd23f580cab259b5)" width="120" style="border-radius: 50%; border: 3px solid #2D2D2D">
+  <img src="https://i.pinimg.com/736x/a1/62/be/a162bed10ddf80e9ae66d8d7552fc120.jpg" width="250" style="border-radius: 50%; border: 3px solid #2D2D2D">
   
   # Quthery
   ### DevOps & Backend Engineer
