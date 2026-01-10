@@ -5,5 +5,7 @@
   ### DevOps & Backend Engineer
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/quthery)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/quthery)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Quthery)
 </div>
 
