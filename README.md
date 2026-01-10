@@ -3,7 +3,7 @@
   <!-- <img src="https://i.pinimg.com/736x/65/ec/f2/65ecf2f55803574643a09548b4e26b81.jpg" width="230" style="border-radius: 50%; border: 3px solid #2D2D2D"> -->
   
   # Quthery
-  ### Backend Engineer | Linux Enthusiast | Competitive Programming
+  ### Fullstack Engineer | Linux Enthusiast | балбес полнейший
   
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/quthery)
   [![Codeforces](https://img.shields.io/badge/Codeforces-1F1C3F?logo=codeforces&style=for-the-badge)](https://codeforces.com/profile/quthery)
